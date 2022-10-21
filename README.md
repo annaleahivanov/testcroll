@@ -10,8 +10,8 @@
      are thus available in all text.  Entity identifiers (QIDs) can be found in either
      Wikipedia or Wikidata (https://www.wikidata.org)> -->
 <param ve-image 
-       label="Girl with a Pearl Earring" 
-       description="painting by Johannes Vermeer" 
+       label="Poems by Akhmatova" 
+       description="poems by Akhmatova" 
        license="public domain" 
        url="https://static.poetryfoundation.org/jstor/i20596039/pages/38.png">
 <param ve-entity eid="Q41264"> <!-- Johannes Vermeer -->
@@ -28,20 +28,13 @@ This is a sample visual essay demonstrating a few key features of a Visual Essay
 
 ## Image
 
-_Girl with a Pearl Earring_ (Dutch: Meisje met de parel) is an oil painting by Dutch Golden Age painter Johannes Vermeer, 
-dated c. 1665. Going by various names over the centuries, it became known by its present title towards the end of the 
-20th century after the earring worn by the girl portrayed there.[^1]
-<param ve-image 
-       label="Girl with a Pearl Earring" 
-       description="painting by Johannes Vermeer" 
-       license="public domain" 
-       url="https://static.poetryfoundation.org/jstor/i20596039/pages/38.png">
+I have some thoughts about the poem. I'm going to test them out here. What happens if I mention the muse?
 
+What if I want to Zoom in on something??
 ## Map
 
 The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various 
 literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.
-<param ve-map center="Q36600" zoom="11" prefer-geojson>
 
 ## Multiple viewers
 
