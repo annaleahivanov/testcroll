@@ -29,7 +29,11 @@ This is a sample visual essay demonstrating a few key features of a Visual Essay
 ## Image
 
 I have some thoughts about the poem. I'm going to test them out here. What happens if I mention the muse?
-
+<param ve-image 
+       label="Poems by Akhmatova" 
+       description="poems by Akhmatova" 
+       license="public domain" 
+       url="https://static.poetryfoundation.org/jstor/i20596039/pages/38.png">
 What if I want to Zoom in on something??
 ## Map
 
